@@ -46,7 +46,7 @@ Isso iniciará o aplicativo em modo de desenvolvimento e abrirá uma página no 
 
 ## Deploy
 
-Deploy do projeto: <a href="https://64c022a199d5851325daadc0--extraordinary-hotteok-14f392.netlify.app/">Link</a>
+Deploy do projeto: <a href="https://ecomerce-phones.netlify.app">Link</a>
 
 Sinta-se à vontade para explorar o site e fazer testes com a funcionalidade do carrinho de compras. Se tiver alguma dúvida ou sugestão, não hesite em entrar em contato. Divirta-se comprando os melhores celulares no nosso E-commerce! 📱💻
 
